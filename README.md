@@ -19,42 +19,46 @@ Use the following link to download the Challenge starter code. Download the NYC 
 
 # Deliverable 1: Change Trip Duration to a Datetime Format (20 points)
 
-•	Using Python and Pandas functions, you’ll convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After you convert the "tripduration" column to a datetime dataytpe, you’ll export the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
+        •	Using Python and Pandas functions, you’ll convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After you convert the "tripduration" column to a datetime dataytpe, you’ll export the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
 
-•	Follow the instructions below to complete Deliverable 1.
+        •	Follow the instructions below to complete Deliverable 1.
 
 1.	Download the NYC_CitiBike_Challenge_starter_code.ipynb file into your bikesharing folder, and rename it NYC_Citibike_Challenge.ipynb.
-
- ![image](https://user-images.githubusercontent.com/117233641/231866831-7074abbf-9e4e-4e7b-88d3-15b7c76285a9.png)
 
 2.	Use the instructions below to add code where indicated by the numbered-step comments in the starter code file. We have provided the dependencies you will need for this challenge.
 
 3.	In Step 1, create a DataFrame from the 201908-citibike-tripdata.csv file.
 
-![image](https://user-images.githubusercontent.com/117233641/231866873-e53104d0-93d5-4482-b20c-8eca52680492.png)
+![image](https://user-images.githubusercontent.com/117233641/231869379-faf6de6c-3876-43bb-a04d-c0f96037d843.png)
+
+![image](https://user-images.githubusercontent.com/117233641/231869463-bbf5424c-1bb7-4f09-8bfc-4dcb3041cc38.png)
+
 
 4.	In Step 2, check the datatypes of each column in the DataFrame.
 
-![image](https://user-images.githubusercontent.com/117233641/231866936-82f51ba1-2f2d-40ae-a285-a131dc00605a.png)
+![image](https://user-images.githubusercontent.com/117233641/231869503-b8b9fe80-76ef-4067-a8d6-c9433ee6e50b.png)
 
-![image](https://user-images.githubusercontent.com/117233641/231867003-8d038d41-1dbd-46a7-835b-968a0cf54ce4.png)
 
 5.	In Step 3, convert the "tripduration" column to a datetime datatype by passing the DataFrame column and the units inside the to_datetime() function.
 
 •	NOTE: You can create a new column that contains the conversion if you don't want to change the "tripduration" column to a datetime datatype.
  
+![image](https://user-images.githubusercontent.com/117233641/231869558-5d34ba97-8154-445a-a518-77100b9004c0.png)
 
+![image](https://user-images.githubusercontent.com/117233641/231869586-f5c6e821-9145-4eaa-a3e3-c54ba9038b81.png)
  
 
 6.	In Step 4, check the datatypes of the DataFrame.
- 
+
+![image](https://user-images.githubusercontent.com/117233641/231869632-629c09d3-661e-4755-bddf-c73376f57512.png)
+
 7.	Confirm that the converted values in the "tripduration" column match the following image:
 
+![image](https://user-images.githubusercontent.com/117233641/231869675-5d54065e-e184-4bd8-b03d-04cfe632f794.png)
  
-
-EP DIVE
 8.	In Step 5, export the DataFrame as a new CSV file without the index column. Use this new CSV file for Deliverable 2.
  
+![image](https://user-images.githubusercontent.com/117233641/231869778-bc0411be-ee61-4770-8a4f-b20a599ff93d.png)
 
 
 
@@ -85,7 +89,8 @@ In this visualization, you’ll graph the length of time that bikes are checked 
 
 5.	Edit the X and Y axis labels by right-clicking on the axis label and selecting "Edit Axis".
 
- 
+![image](https://user-images.githubusercontent.com/117233641/231869879-a88660bc-6495-4d3f-b486-1eb3db634877.png)
+
 
 ##Create the Checkout Times by Gender Viz
 
