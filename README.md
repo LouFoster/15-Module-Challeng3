@@ -102,9 +102,7 @@ In this visualization, you’ll graph the length of time that bikes are checked 
 
 3.	Edit the X and Y axis labels by right-clicking on the axis label and selecting "Edit Axis".
 
-
- 
-
+![image](https://user-images.githubusercontent.com/117233641/231871084-11ac82ae-9a25-40e2-a77c-e988c5d4415b.png)
 
 **#Create the Trips by Weekday for Each Hour Viz
 **In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
@@ -119,7 +117,7 @@ In this visualization, you’ll graph the length of time that bikes are checked 
 
 In conclusion, based on the graph labeled “Trips by Weekday,” per Hour,” indicates that “Monday, Tuesday, and Thursday are the busiest days. 
 •	
- 
+ ![image](https://user-images.githubusercontent.com/117233641/231871246-f6ace580-0379-40ab-8825-869d670c5850.png)
 
 5.	Optional: Format the X axis of Stoptime by Weekday as "Abbreviation".
 
@@ -137,22 +135,19 @@ In this visualization, you'll create a heatmap that shows the number of bike tri
 
 4.	Add the number of records or the generated field that counts the number of records in the CSV file to the Marks field as a color. Select "Automatic" for the type of graph to create the heatmap.
 
-
- 
-
+![image](https://user-images.githubusercontent.com/117233641/231871305-570b26a8-491c-4631-a177-b6f0a4ae8cdd.png)
 
 
-
-##Deliverable 3: Create a Story and Report for the Final Presentation (30 points)
-
+**##Deliverable 3: Create a Story and Report for the Final Presentation (30 points)
+**
 #OVERVIEW:
 (As captured from Data Bootcamp Module 15) 
 
 As the assigned Data Analyst, for this project, I will work with data visualization software called Tableau to present a business proposal for a bike-sharing company. In addition, for this analysis, as the assigned Data Analyst, I will use Pandas to change the "tripduration" column from an integer to a datetime datatype. Lastly, I will add these new visualizations to the two created (in this module) for my final presentation and analysis to pitch to investors.
 
 
-#PURPOSE
-
+**#PURPOSE
+**
 For this analysis, I will use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
 
 •	Show the length of time that bikes are checked out for all riders and genders
@@ -164,45 +159,39 @@ For this analysis, I will use Pandas to change the "tripduration" column from an
 •	Finally, I will add these new visualizations to the two created in this module for your final presentation and analysis to pitch to investors. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
 
-1.	Results:
-
+**1.	Results:
+**
 •	Males were significantly higher users than other demographics.
 
- 
+![image](https://user-images.githubusercontent.com/117233641/231871517-5fb3e71d-6d32-4036-9598-566d914c0c2a.png)
 
 •	6-10 am and 5-8 PM are peak riding hours during the weekday and 5 am to 10 pm on the weekends.
-o	See Worksheet labeled Trips (Weekday per Hour)
+        o	See Worksheet labeled Trips (Weekday per Hour)
+        
+![image](https://user-images.githubusercontent.com/117233641/231872078-aa5d7dd1-d124-4e37-8657-52cdd1fa5541.png)
+
+    •	Males were high users during the peak hours. 
+    
+    •	Males subscribers were the largest usertype by gender
+        o	See Worksheet labeled “Trips by Gender (Weekday per Hour)”
+
+![image](https://user-images.githubusercontent.com/117233641/231872158-b38f6faa-ca6e-4560-9178-dc90a3e8c7ce.png)
 
 
- 
-
-
-•	Males were high users during the peak hours. 
-•	Males subscribers were the largest usertype by gender
-o	See Worksheet labeled “Trips by Gender (Weekday per Hour)”
-
- 
-
-2.	Summary:
-
+ **2.	Summary:
+**
 •	Future data analysis should include a geographical analysis where Tableau displays could be expanded to illustrate the weather conditions that are currently tracked in this analysis.
 
-•	Add a Dashboard:
-
+**•	Add a Dashboard:
+**
 The primary function of dashboards is not necessarily to tell a story, but rather to organize and view data in a central location. Dashboards allow us to share data in a way our audience will easily understand, rather than simply showing them a bunch of worksheets.
 
- 
+![image](https://user-images.githubusercontent.com/117233641/231872250-c1c80263-2031-42ce-ad59-fb7333221e63.png)
 
 •	Add a new chart/ worksheet to visually show the “Number of Rides per Hour.” This newly created chart/worksheet, used in conjunction with the existing chart labeled “Trips by Weekday per Hour,” may offer additional data analysis which can assist management and logistics in refining their staffing model, accordingly. 
 
 o	6-10 am and 5-8 PM are peak riding hours during the weekday, and 5 am to 10 pm on the weekends.
 
 o	Non-peak hours are 1-5 am.
-Suggestion: Bike Repairs could be planned during Non-Peak hours. 
-
-
- 
-
- 
-
+        Suggestion: Bike Repairs could be planned during Non-Peak hours. 
 
