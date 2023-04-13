@@ -11,8 +11,8 @@
 
     •	Deliverable 3: Create a Story and Report for the Final Presentation
 
-#Files/Data
-Use the following link to download the Challenge starter code. Download the NYC CitiBike starter code.
+**#Files/Data
+**Use the following link to download the Challenge starter code. Download the NYC CitiBike starter code.
 
 
 ### Instructions
@@ -63,8 +63,8 @@ Use the following link to download the Challenge starter code. Download the NYC 
 
 
 
-##Deliverable 2: Create Visualizations for the Trip Analysis (50 points)
-
+**##Deliverable 2: Create Visualizations for the Trip Analysis (50 points)
+**
 Using Tableau, create visualizations that show:
 
 •	How long bikes are checked out for all riders and genders.
@@ -89,11 +89,11 @@ In this visualization, you’ll graph the length of time that bikes are checked 
 
 5.	Edit the X and Y axis labels by right-clicking on the axis label and selecting "Edit Axis".
 
-![image](https://user-images.githubusercontent.com/117233641/231869879-a88660bc-6495-4d3f-b486-1eb3db634877.png)
+![image](https://user-images.githubusercontent.com/117233641/231870656-109bf4d6-05f0-49c7-8901-4a4b7069954c.png)
 
 
-##Create the Checkout Times by Gender Viz
-
+**##Create the Checkout Times by Gender Viz
+**
 #In this visualization, you’ll graph the length of time that bikes are checked out for each gender.
 
 1.	Repeat steps 1-4 of the "Checkout Times for Users" visualization.
@@ -106,8 +106,8 @@ In this visualization, you’ll graph the length of time that bikes are checked 
  
 
 
-#Create the Trips by Weekday for Each Hour Viz
-In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
+**#Create the Trips by Weekday for Each Hour Viz
+**In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
 
 1.	Add the "Starttime" column to the Rows, and filter the "More" option by "Hour".
 
